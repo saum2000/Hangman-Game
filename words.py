@@ -1,0 +1,2 @@
+word_list=['car','soup','table','sky','chair','garden','truck','pasta','pizza','noodles','chicken','alien','london','football','cricket','golf','tennis','badminton','smile','eyes','nose','arm','shoes','book','rose','plants','tiger','monkey','cat','dog','peacock','cheetah',
+'flower','apple','fruits','banana','kiwi','ostrich','girl','boy']
