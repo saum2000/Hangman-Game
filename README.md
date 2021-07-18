@@ -1,2 +1,2 @@
 # Hangman-Game
-hangman 2020-07-28 00-50-12.mp4 file is the video demonstration of the game.
+https://github.com/saum2000/Hangman-Game/blob/master/hangman%202020-07-28%2000-50-12.mp4 is the video demonstration of the game.
